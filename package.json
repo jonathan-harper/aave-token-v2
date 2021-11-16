@@ -100,7 +100,7 @@
   ],
   "license": "AGPLv3",
   "dependencies": {
-    "tmp-promise": "^3.0.2"
+    "tmp-promise": "^3.0.3"
   },
   "publishConfig": {
     "@aave-tech:registry": "https://gitlab.com/api/v4/projects/19392283/packages/npm/"
